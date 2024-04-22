@@ -1,8 +1,8 @@
 Hi 👋 My name is Manzi Boris
 ============================
 
-Full-Stack Web Developer
-------------------------
+Ui/Ux Designer & Frontend Software Developer
+--------------------------------------------
 
 👋 Hi, I’m Boris Manzi. I’m interested in Web and Mobile App Development 🌱 I’m looking forward to collaborate on Web App Projects 📫 Reach me on jesuismanzi07@gmail.com, borisog784@gmail.com Instagram account: jesuis\_manzi WhatsApp: +250790902787
 
