@@ -4,7 +4,7 @@ Hi 👋 My name is Manzi Boris
 Ui/Ux Designer & Frontend Software Developer
 --------------------------------------------
 
-👋 Hi, I’m Boris Manzi. I’m interested in Web and Mobile App Development 🌱 I’m looking forward to collaborate on Web App Projects 📫 Reach me on jesuismanzi07@gmail.com, borisog784@gmail.com Instagram account: jesuis\_manzi WhatsApp: +250790902787
+Detail-oriented Software Developer with 4+ years of experience in designing, developing, and implementing software solutions. Strong expertise in programming languages, problem-solving, and collaborating with cross- functional teams. Committed to delivering high-quality, efficient, and scalable software products
 
 *   🌍  I'm based in Kigali - Rwanda
 *   ✉️  You can contact me at [borisog784@gmail,com](mailto:borisog784@gmail,com)### Skills<p align="left">
