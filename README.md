@@ -1,5 +1,5 @@
-Hi 👋 My name is Manzi Boris
-============================
+Hi 👋 I'm Manzi Boris
+======================
 
 Ui/Ux Designer & Frontend Software Developer
 --------------------------------------------
