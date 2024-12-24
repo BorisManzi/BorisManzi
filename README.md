@@ -1,4 +1,4 @@
-Hi 👋 I'm Manzi Boris
+Hi 👋 I'm Boris Manzi
 ======================
 
 Ui/Ux Designer & Frontend Software Developer
